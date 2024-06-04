@@ -3,6 +3,7 @@
 Hand gesture recognition uses computer vision and machine learning to interpret human hand movements for intuitive interaction with digital devices. It has applications in virtual reality, sign language translation, and human-computer interaction.
 
 **Table of Contents**
+
           * Project Overview
           * System Requirements
           * Dataset
